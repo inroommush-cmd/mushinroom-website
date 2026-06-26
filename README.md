@@ -114,13 +114,13 @@ Edit `tailwind.config.ts` to update brand colours:
 - **Emerald (Accent):** `#10B981`
 
 ### Contact Details
-Search for `inroommush@gmail.com` and `919999999999` across the codebase and replace with actual values.
+Search for `inroommush@gmail.com` and `919294538087` across the codebase and replace with actual values.
 
 ### Google Maps
 In `ContactSection.tsx`, replace the map placeholder with an actual Google Maps embed.
 
 ### WhatsApp Number
-Replace `919999999999` with the actual WhatsApp business number in:
+Replace `919294538087` with the actual WhatsApp business number in:
 - `components/layout/Footer.tsx`
 - `components/sections/ContactCTA.tsx`
 - `components/sections/ContactSection.tsx`
